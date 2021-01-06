@@ -8,7 +8,7 @@
 <p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
 <p>🐍Aprendendo <b>Python</b> </p>
 <p>🧠Entusiasmada com <b> CSharp  e PHP</b></p>
-<p>🖌Curiosa sobre novas tecnologias </p>
+<p>🖌Curioso sobre novas tecnologias </p>
 
 <p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
 
