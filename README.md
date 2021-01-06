@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**robsonamendonca/robsonamendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi. Eu sou a Robson. ~~Sou fã de tecnologia, café e programação.~~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Eu sou a Robson. Sou fã de tecnologia, café e programação. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robsonamendonca)](https://github.com/robsonamendonca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlimamendonca/)](https://www.linkedin.com/in/robsonlimamendonca/)
 
