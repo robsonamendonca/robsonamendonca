@@ -7,7 +7,7 @@
 <hr/>
 <p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
 <p>🐍Aprendendo <b>Python</b> </p>
-<p>🧠Entusiasmada com <b> CSharp  e PHP</b></p>
+<p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
 <p>🖌Curioso sobre novas tecnologias </p>
 
 <p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
@@ -15,3 +15,4 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
+<p>🖌 Projeto atual: http://hdev.com.br/ </p>
