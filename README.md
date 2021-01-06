@@ -3,14 +3,18 @@
 <!--
 **robsonamendonca/robsonamendonca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi. Eu sou a Robson. ~~Sou fã de tecnologia, café e programação.~~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robsonamendonca)](https://github.com/robsonamendonca)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlimamendonca/)](https://www.linkedin.com/in/robsonlimamendonca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
+<p>🐍Aprendendo <b>Python</b> </p>
+<p>🧠Entusiasmada com <b> CSharp  e PHP</b></p>
+<p>🖌Curiosa sobre novas tecnologias </p>
+
+<p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr/>
