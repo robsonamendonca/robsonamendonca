@@ -14,5 +14,7 @@
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca)](https://github.com/anuraghazra/github-readme-stats)
 
+![Robson Mendonça's github stats](https://github-readme-stats.vercel.app/api?username=robsonamendonca&show_icons=true&theme=dracula)
+
 <hr/>
 <p>🖌 Projeto atual: http://hdev.com.br/ </p>
