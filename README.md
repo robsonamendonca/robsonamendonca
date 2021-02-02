@@ -6,7 +6,7 @@
 
 <hr/>
 <p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
-<p>🐍Aprendendo <b>Python</b> </p>
+<p>🐍Aprendendo <b>Python</b> e <b>Golang</b> </p>
 <p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
 <p>🖌Curioso sobre novas tecnologias </p>
 
@@ -17,4 +17,4 @@
 ![Robson Mendonça's github stats](https://github-readme-stats.vercel.app/api?username=robsonamendonca&show_icons=true&theme=dracula)
 
 <hr/>
-<p>🖌 Projeto atual: http://hdev.com.br/ </p>
+<p>🖌 Projetos atuais: http://hdev.com.br/  | https://scrumquiz.robsonamendonca.vercel.app/</p>
