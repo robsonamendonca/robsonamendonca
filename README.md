@@ -3,6 +3,8 @@
 ### Eu sou a Robson. Sou fã de tecnologia, café e programação. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robsonamendonca)](https://github.com/robsonamendonca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlimamendonca/)](https://www.linkedin.com/in/robsonlimamendonca/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/robsonamendonca)](https://twitter.com/robsonamendonca)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/robsonamendonca_/)](https://www.instagram.com/robsonamendonca_/) 
 
 <hr/>
 <p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
