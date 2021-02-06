@@ -20,3 +20,11 @@
 
 <hr/>
 <p>🖌 Projetos atuais: http://hdev.com.br/  | https://scrumquiz.robsonamendonca.vercel.app/</p>
+
+## Troféus GitHub
+
+[![Github trophies](https://github-profile-trophy.vercel.app/?username=robsonamendonca&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
+
+## Total de visitantes
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=robsonamendonca.robsonamendonca)
