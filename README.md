@@ -31,13 +31,13 @@
 
 <hr/>
 <p align="center">
-  <a href="https://github.com/robsonamendonca?tab=followers">
+  <a href="https://github.com/robsonamendonca?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/robsonamendonca?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/robsonamendonca">
+  <a href="http://twitter.com/robsonamendonca" target="_blank">
     <img src="https://img.shields.io/twitter/follow/robsonamendonca?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/c/UC_Bhj2Y3I9RH6f1PW-W4STg?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UC_Bhj2Y3I9RH6f1PW-W4STg?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/youtube/views/KF5t8ewwQzA?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
