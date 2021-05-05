@@ -19,7 +19,10 @@
 ![Robson Mendonça's github stats](https://github-readme-stats.vercel.app/api?username=robsonamendonca&show_icons=true&theme=dracula)
 
 <hr/>
-<p>🖌 Projetos atuais: http://hdev.com.br/  | https://scrumquiz.robsonamendonca.vercel.app/</p>
+## Projetos atuais
+<p>http://hdev.com.br/ </p>
+<p>https://scrumquiz.robsonamendonca.vercel.app/</p>
+[![Extensões - Firefox - Jogo da velha Plus](https://img.shields.io/amo/dw/jogo-da-velha-plus?style=flat-square)](https://addons.mozilla.org/pt-BR/firefox/addon/jogo-da-velha-plus/)
 
 ## Troféus GitHub
 
