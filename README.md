@@ -20,9 +20,16 @@
 
 <hr/>
 ## Projetos atuais
+
 <p>http://hdev.com.br/ </p>
 <p>https://scrumquiz.robsonamendonca.vercel.app/</p>
-[![Extensões - Firefox - Jogo da velha Plus](https://img.shields.io/amo/dw/jogo-da-velha-plus?style=flat-square)](https://addons.mozilla.org/pt-BR/firefox/addon/jogo-da-velha-plus/)
+
+<p align="center">
+  <a href="https://addons.mozilla.org/pt-BR/firefox/addon/jogo-da-velha-plus/" target="_blank">
+    Extensões - Firefox - Jogo da velha Plus - 
+    <img src="https://img.shields.io/amo/dw/jogo-da-velha-plus?style=flat-square" alt="Extensões - Firefox - Jogo da velha Plus" />
+  </a>
+ </p> 
 
 ## Troféus GitHub
 
