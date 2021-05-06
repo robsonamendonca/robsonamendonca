@@ -24,7 +24,7 @@
 <p>http://hdev.com.br/ </p>
 <p>https://scrumquiz.robsonamendonca.vercel.app/</p>
 
-<p align="center">
+<p align="left">
   <a href="https://addons.mozilla.org/pt-BR/firefox/addon/jogo-da-velha-plus/" target="_blank">
     Extensões - Firefox - Jogo da velha Plus - 
     <img src="https://img.shields.io/amo/dw/jogo-da-velha-plus?style=flat-square" alt="Extensões - Firefox - Jogo da velha Plus" />
