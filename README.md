@@ -7,6 +7,20 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/robsonamendonca_/)](https://www.instagram.com/robsonamendonca_/) 
 
 <hr/>
+<p align="center">
+  <a href="https://www.credly.com/badges/5cc083ba-6a64-4300-974b-e56463f6d5f2/public_url/" target="_blank">     
+    <img src="https://images.credly.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png" alt="DevOps Essentials Professional Certificate - DEPC"  width="128px" height="128px" />
+  </a>
+    <a href="https://www.credly.com/badges/b6c75bb8-19b3-4269-98a8-0839af192d09/public_url" target="_blank">     
+    <img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="Lifelong Learning
+Issued by CertiProf"  width="128px" height="128px" />
+  </a>
+    <a href="https://www.credly.com/badges/3db0f0f1-4064-42f4-9675-25e97843fcce/public_url" target="_blank">     
+    <img src="https://images.credly.com/size/110x110/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" alt="Scrum Foundation Professional Certificate
+Issued by CertiProf"  width="128px" height="128px" />
+  </a>
+ </p> 
+<hr/>
 <p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
 <p>🐍Aprendendo <b>Python</b> e <b>Golang</b> </p>
 <p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
@@ -19,6 +33,7 @@
 ![Robson Mendonça's github stats](https://github-readme-stats.vercel.app/api?username=robsonamendonca&show_icons=true&theme=dracula)
 
 <hr/>
+
 ## Projetos atuais
 
 <p>http://hdev.com.br/ </p>
@@ -33,7 +48,7 @@
 
 ## Troféus GitHub
 
-[![Github trophies](https://github-profile-trophy.vercel.app/?username=robsonamendonca&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
+![Github trophies](https://github-profile-trophy.vercel.app/?username=robsonamendonca&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
 
 ## Total de visitantes
 
