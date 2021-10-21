@@ -10,10 +10,6 @@
 
 <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/user?username=robsonamendonca" width="100%" height="100" />
 <div align="center">
-  <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/experience?username=robsonamendonca&limit=6" width="500" height="700" />
-  <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/skills?username=robsonamendonca" width="200" height="700" />
-</div>
-<div align="center">
 <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/education?username=robsonamendonca" width="400" height="200" />
 <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/languages?username=robsonamendonca" width="300" height="200" />
 </div>
