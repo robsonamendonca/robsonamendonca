@@ -5,9 +5,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlimamendonca/)](https://www.linkedin.com/in/robsonlimamendonca/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/robsonamendonca)](https://twitter.com/robsonamendonca)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/robsonamendonca_/)](https://www.instagram.com/robsonamendonca_/) 
- 
+
 <hr/>
-<p> 🖥Atualmente sou desenvolvedor de RPA (Robotic Process Automation) </p> 
+
+<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/user?username=robsonamendonca" width="100%" height="100" />
+<div align="center">
+  <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/experience?username=robsonamendonca&limit=6" width="500" height="700" />
+  <img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/skills?username=robsonamendonca" width="200" height="700" />
+</div>
+<div align="center">
+<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/education?username=robsonamendonca" width="400" height="200" />
+<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/languages?username=robsonamendonca" width="300" height="200" />
+</div>
+
+<hr/>
+
+<p> 🖥Atualmente sou desenvolvedor Backend (.NET) </p> 
 <p>🐍Aprendendo <b>Python</b> e <b>Golang</b> </p>
 <p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
 <p>🖌Curioso sobre novas tecnologias </p>
