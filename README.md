@@ -8,14 +8,6 @@
 
 <hr/>
 
-<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/user?username=robsonamendonca" width="100%" height="100" />
-<div align="center">
-<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/education?username=robsonamendonca" width="400" height="200" />
-<img src="https://github-readme-linkedin-i551zghoe-robsonamendonca.vercel.app/languages?username=robsonamendonca" width="300" height="200" />
-</div>
-
-<hr/>
-
 <p> 🖥Atualmente sou desenvolvedor Backend (.NET) </p> 
 <p>🐍Aprendendo <b>Python</b> e <b>Golang</b> </p>
 <p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
