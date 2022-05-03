@@ -15,7 +15,7 @@
 
 <p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Robson Mendonça's github stats](https://github-readme-stats.vercel.app/api?username=robsonamendonca&show_icons=true&theme=dracula)
 
