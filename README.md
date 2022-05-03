@@ -46,6 +46,7 @@
         <a title="https://readme-maker.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://readme-maker.herokuapp.com/">readme-maker.herokuapp.com/</a>
       </span>
 <hr>      
+
 ## Troféus GitHub
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=robsonamendonca&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
