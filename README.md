@@ -9,7 +9,7 @@
 <hr/>
 
 <p> 🖥Atualmente sou desenvolvedor Backend (.NET) </p> 
-<p>🐍Aprendendo <b>Python</b> e <b>Golang</b> </p>
+<p>🐍Aprendendo <b>Python</b> e <b>NodeJs</b> </p>
 <p>🧠Entusiasmado com <b> CSharp  e PHP</b></p>
 <p>🖌Curioso sobre novas tecnologias </p>
 
