@@ -28,8 +28,6 @@ café e programação.
 ### ✍️Mensagem de desenvolvedor aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Meme de desenvolvedor aleatório
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=robsonamendonca&icon=0&color=3)](https://visitcount.itsvg.in)
