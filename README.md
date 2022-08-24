@@ -45,8 +45,13 @@ café e programação.
 ---
 [![](https://visitcount.itsvg.in/api?id=robsonamendonca&icon=0&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 Gostou? Pague-me um café!
+  ## 💰 Gostou? Pague-me um café! 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robsonamendonca) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+<span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
+        <a title="Siga-me no LinkedIn" class="text-bold" rel="noopener noreferrer" href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robsonamendonca">Siga-me no LinkedIn</a>
+      </span>
+
   
