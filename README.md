@@ -41,9 +41,6 @@ café e programação.
 ### ✍️Mensagem de desenvolvedor aleatória
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<hr>
-![](https://github-readme-devlife.000webhostapp.com/random)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=robsonamendonca&icon=0&color=3)](https://visitcount.itsvg.in)
 
