@@ -33,7 +33,7 @@ café e programação.
     </p>
 
 <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
-        <a title="https://readme-maker.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://readme-maker.herokuapp.com/">readme-maker.herokuapp.com/</a>
+        <a title="https://readme-maker.up.railway.app/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://readme-maker.up.railway.app/">readme-maker.herokuapp.com/</a>
       </span>
 <hr>      
 
