@@ -3,7 +3,9 @@ Hi there 👋
 Eu sou o Robson. Sou fã de tecnologia, 
 café e programação. 
 
-🖥Atualmente sou desenvolvedor Backend (.NET)
+🖥Atualmente sou: 
+ - Desenvolvedor Backend (.NET)
+ - Buscando **transição** de carreira para a área de **Desenvolvimento Mobile**.
 
 🐍Aprendendo Python e NodeJs
 
