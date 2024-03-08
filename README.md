@@ -76,6 +76,8 @@ café e programação.
   ## 💰 Gostou? Pague-me um café! 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robsonamendonca) 
 
+<a href='https://ko-fi.com/Q5Q6L47GV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
