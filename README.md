@@ -80,7 +80,12 @@ café e programação.
 
 [![](https://visitcount.itsvg.in/api?id=robsonamendonca&icon=0&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 Gostou? Pague-me um café! 
+## Newsletter
+
+<a class="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;text-decoration: none !important;color: #ffffff !important;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/build-relation/newsletter-followentityUrn=7135303253281415168" target="_blank">Assinar no LinkedIn</a>
+
+
+## 💰 Gostou? Pague-me um café! 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robsonamendonca) 
 
 <a href='https://ko-fi.com/Q5Q6L47GV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
