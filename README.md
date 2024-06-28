@@ -92,6 +92,5 @@ café e programação.
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_Siga_me-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robsonamendonca) 
-
-  
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_Siga_me-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=robsonamendonca) 
+ 
