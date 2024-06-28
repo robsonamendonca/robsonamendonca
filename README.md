@@ -80,9 +80,9 @@ café e programação.
 
 [![](https://visitcount.itsvg.in/api?id=robsonamendonca&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## Newsletter
+## 📖 Newsletter
 
-<a class="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;text-decoration: none !important;color: #ffffff !important;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: 'SF Pro Text', Helvetica, sans-serif;" href="https://www.linkedin.com/build-relation/newsletter-followentityUrn=7135303253281415168" target="_blank">Assinar no LinkedIn</a>
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_NewsLetter-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-followentityUrn=7135303253281415168)
 
 
 ## 💰 Gostou? Pague-me um café! 
@@ -92,8 +92,6 @@ café e programação.
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
-<span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
-        <a title="Siga-me no LinkedIn" class="text-bold" rel="noopener noreferrer" href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robsonamendonca">Siga-me no LinkedIn</a>
-      </span>
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_Siga_me-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=robsonamendonca) 
 
   
