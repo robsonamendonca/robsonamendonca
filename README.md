@@ -8,7 +8,7 @@ Eu sou o Robson. Sou fã de tecnologia,
 café e programação. 
 
 🖥Atualmente sou: 
- - Desenvolvedor Backend (.NET)
+ - Desenvolvedor Backend (.NET) / Fullstack C# e Angular/Vue.js
  - Buscando **transição** de carreira para a área de **Desenvolvimento Mobile**.
 
 🐍Aprendendo Python e NodeJs
