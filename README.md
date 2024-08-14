@@ -46,11 +46,11 @@ café e programação.
 
 <p class="f4 mt-3">
       
-<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> The awesome ReadMe of your project in less than 2 minutes! It's really simple!
+<img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Exemplo simples de uma capa para seu projetos no github
     </p>
 
 <span class="flex-auto min-width-0 css-truncate css-truncate-target width-fit">
-        <a title="https://readme-maker.up.railway.app/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://readme-maker.up.railway.app/">readme-maker.herokuapp.com/</a>
+        [Exemplo README Capa Projetos.md](https://gist.github.com/robsonamendonca/c446ab378296e0e34d90bb49e8988b6a)
       </span>
 <hr>      
 
@@ -84,6 +84,9 @@ café e programação.
 
 [![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn_NewsLetter-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/build-relation/newsletter-followentityUrn=7135303253281415168)
 
+[![Substack Newsletter](https://img.shields.io/badge/Substack-GuiaDevJr_Newsletter-orange?logo=substack)](https://open.substack.com/pub/diccar/p/mestre-do-controle-de-versao?r=1ex7r&utm_campaign=post&utm_medium=web)
+
+---
 
 ## 💰 Gostou? Pague-me um café! 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/robsonamendonca) 
