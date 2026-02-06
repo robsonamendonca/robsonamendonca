@@ -17,6 +17,20 @@ café e programação.
 
 🖌Curioso sobre novas tecnologias
 
+## 🌟Destaques
+<!-- HTML -->
+<table border="0"> 
+<td>
+ 
+[![mobile-to-desktop-kit](https://helio-github-stats.vercel.app/api/pin?username=robsonamendonca&repo=mobile-to-desktop-kit&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://robsonamendonca.github.io/mobile-to-desktop-kit/site/)
+
+</td>
+ <td>
+  
+[![Gist Card](https://helio-github-stats.vercel.app/api/gist?id=c446ab378296e0e34d90bb49e8988b6a&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br)](https://nice-readme.vercel.app/gist-pins)
+
+ </td>
+</table>
 
 ## 🌐Redes Sociais
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/6378) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robsonamendonca_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonamendonca) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@robsonamendonca) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/robsonamendonca) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/robsonamendonca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@hdevinfo) 
@@ -40,7 +54,7 @@ café e programação.
  </td>
 </table>
 
---
+---
 
 ## Personalize seu README.md do seus projetos! :D eu indico!
 
@@ -66,15 +80,9 @@ café e programação.
 
 ---
 
-# 📊GitHub Stats :
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=robsonamendonca&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false)](https://nice-readme.vercel.app/wakatime)
 
-![](https://github-readme-stats.vercel.app/api?username=robsonamendonca&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=robsonamendonca&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonamendonca&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=robsonamendonca&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=robsonamendonca&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
 ---
 
