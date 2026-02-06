@@ -27,7 +27,7 @@ café e programação.
 </td>
  <td>
   
-[![Gist Card](https://helio-github-stats.vercel.app/api/gist?id=c446ab378296e0e34d90bb49e8988b6a&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br)](https://nice-readme.vercel.app/gist-pins)
+[![Gist Card](https://helio-github-stats.vercel.app/api/gist?id=c446ab378296e0e34d90bb49e8988b6a&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br)](https://gist.github.com/robsonamendonca/c446ab378296e0e34d90bb49e8988b6a)
 
  </td>
 </table>
