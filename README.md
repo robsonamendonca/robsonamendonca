@@ -4,16 +4,13 @@
 <img src="https://raw.githubusercontent.com/robsonamendonca/robsonamendonca/main/mepageumcafe.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Gostou? Me page um Café!"> </a>
 
 Hi there 👋
+
 Eu sou o Robson. Sou fã de tecnologia, 
 café e programação. 
 
-🖥Atualmente sou: 
- - Desenvolvedor Backend (.NET) / Fullstack C# e Angular/Vue.js
- - Buscando **transição** de carreira para a área de **Desenvolvimento Mobile**.
+Tech Lead .NET | Especialista em Automação (RPA & Power Platform) | APIs & Arquitetura de Sistemas | 20+ anos em tecnologia
 
-🐍Aprendendo Python e NodeJs
-
-🧠Entusiasmado com CSharp e PHP
+São Paulo, São Paulo, Brasil
 
 🖌Curioso sobre novas tecnologias
 
