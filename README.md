@@ -24,7 +24,8 @@ São Paulo, São Paulo, Brasil
 </td>
  <td>
   
-[![Gist Card](https://helio-github-stats.vercel.app/api/gist?id=c446ab378296e0e34d90bb49e8988b6a&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br)](https://gist.github.com/robsonamendonca/c446ab378296e0e34d90bb49e8988b6a)
+[![linux-z](https://helio-github-stats.vercel.app/api/pin?username=robsonamendonca&repo=linux-z&theme=default&hide_border=false&border_radius=4.5&card_width=466)](https://robsonamendonca.github.io/linux-z/
+)
 
  </td>
 </table>
